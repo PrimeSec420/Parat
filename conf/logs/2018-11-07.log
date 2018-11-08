@@ -1,0 +1,10 @@
+17:00:00 core.Shell-(Shell)[5043]-INFO  118:parat started <----------
+17:00:00 core.Shell-(Shell)[5043]-INFO  155:path: /home/primesec/Desktop/Parat
+17:00:00 core.Shell-(Shell)[5043]-INFO  156:color: True
+17:00:00 core.Shell-(Shell)[5043]-INFO  157:debug: False
+17:00:00 core.Shell-(Shell)[5043]-INFO  158:local_host: 192.168.1.38
+17:00:00 core.Shell-(Shell)[5043]-INFO  159:local_port: 4444
+17:00:00 core.Shell-(Shell)[5043]-INFO  219:connected to database: conf/Parat_DB.sqlite
+17:00:01 core.Shell-(Shell)[5043]-INFO  425:new thread: ListenThread_4444
+17:00:35 core.Shell-(MiniUtils)[5043]-INFO  102:closing parat
+17:00:35 core.Shell-(MiniUtils)[5043]-INFO  115:finished ---------->
